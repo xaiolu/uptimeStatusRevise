@@ -6,6 +6,7 @@ uptimeStatusRevise 一个二次开发的监控美化面板
 
 我更新的Demo：https://status.xaiolu.top/
 
+<figure><img fetchpriority="high" decoding="async"  src="https://www.xn--yetq47i.top/usr/uploads/2025/04/1789935416.png" alt=""></figure>
 
 本项目演示目前托管于GitHub Pages中
 
