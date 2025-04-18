@@ -7,7 +7,8 @@ uptimeStatusRevise 一个二次开发的监控美化面板
 
 
 
-#学习的链接来我博客学习 [https://www.xn--yetq47i.top/archives/32.html](https://www.xn--yetq47i.top/archives/32.html) 
+#学习的链接来我博客学习 
+#[https://www.xn--yetq47i.top/archives/32.html](https://www.xn--yetq47i.top/archives/32.html) 
 一、效果
 学习魔改的监控美化面板
 
