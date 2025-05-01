@@ -1,6 +1,6 @@
 uptimeStatusRevise 一个二次开发的监控美化面板
 
-去我的博客学习吧：[https://status.xaiolu.top/](https://www.xn--yetq47i.top/archives/32.html)
+去我的博客学习吧：[小路文章](https://www.xn--yetq47i.top/archives/32.html)
 一、效果
 学习魔改的监控美化面板
 
